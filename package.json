@@ -1,0 +1,14 @@
+{
+  "name": "bases_node",
+  "version": "1.0.0",
+  "description": "Esta es una Aplicacion de linea de comandos de node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabrizio Nancay P.",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
